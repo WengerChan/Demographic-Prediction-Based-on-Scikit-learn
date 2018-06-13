@@ -1,0 +1,7 @@
+﻿Talking Data 下载地址
+
+1. Kaggle数据集地址：https://www.kaggle.com/c/talkingdata-mobile-user-demographics/data
+
+2. 如果Kaggle下载过慢，可使用网盘下载：
+链接: https://pan.baidu.com/s/1baevLuOaYOQ-rcExxwCQBw 
+密码: kivj
